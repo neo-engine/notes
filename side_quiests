@@ -1,0 +1,30 @@
+Side Quests
+
+
+rustboro:
+√ endangered wailmer
+    girl noticing that a wilmer got washed ashore, needs help
+    requires: collected mystic seed in petalburg woods
+    mokuhyou: defeat/capture wailmer
+    reward: mystic water
+- find me a granite stone
+    two little childs arguing why granite cave is called granite cave
+    Requires: Having handed over letter to steven / collected TM False Swipe
+    mokuhyou: hand over granite stone
+    Reward: granite stone, heart scale
+√ rare pkmn sighting
+    dude informing the player that he saw a group of munna in petalburg woods at night
+    Requires: badge2
+    mokuhyou: capture/defeat munna in petalburg woods
+    reward: moon stone
+Dewford:
+√ attacked by scary pkmn
+    Hiker exploring cave, got attacked by a group ob sableye, lost Sparkling Stone
+    mokuhyou: defeat/catch sableye x3, collect Sparkling Stone
+    Reward: Dawn Stone
+- attacked by scary pkmn II
+    Hiker wanted to explore different part, got attacked again by a group of aron/lairon
+    Requires: Completed "attacked by scary pkmn", badge 2
+    mokuhyou: defeat/capture aron x3, lairon x1
+    Reward: Dusk Stone
+

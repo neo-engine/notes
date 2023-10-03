@@ -1,0 +1,31 @@
+Vars
+
+0: init pkmn choice
+1: num fainted
+2: slateport battle tent streak
+3: unused battle tent streak
+4: unused battle tent streak
+5-9: reserved
+10: red shards donated in crystal cavern
+11: blue shards donated in crystal cavern
+12: yellow shards donated in crystal cavern
+13: green shards donated in crystal cavern
+20: battle factory streak (lv 50)
+21: battle factory streak (lv 100)
+22: unused battle facility streak (lv 50)
+23: unused battle facility streak (lv 100)
+24: unused battle facility streak (lv 50)
+25: unused battle facility streak (lv 100)
+26: unused battle facility streak (lv 50)
+27: unused battle facility streak (lv 100)
+28: unused battle facility streak (lv 50)
+29: unused battle facility streak (lv 100)
+30: unused battle facility streak (lv 50)
+31: unused battle facility streak (lv 100)
+32: unused battle facility streak (lv 50)
+33: unused battle facility streak (lv 100)
+34: unused battle facility streak (lv 50, double)
+35: unused battle facility streak (lv 100, double)
+36: shoal cave, playtime (hours) at last reset
+
+
