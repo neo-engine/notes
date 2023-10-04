@@ -164,3 +164,8 @@ Flags
 296-300: r123
 301: cliffelta item
 302-319: underwater item
+320: enable e4 room 1
+321: enable e4 room 2
+322: enable e4 room 3
+323: enable e4 room 4
+324: acerola slateport script
