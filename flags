@@ -1,6 +1,10 @@
 Flags
 
+1: Mega evolution unlocked (never set)
+2: nav obtained (unused)
 3: obtained dex
+4: national dex obtained
+5: rival has appearance 1 (may)
 6: heard explanation what fieldwork is
 8: first look into the player's house at game start
 11: player met rival's mom
@@ -212,3 +216,4 @@ Flags
 385: entered hall of fame
 386: obtained hm rock climb
 387: obtained gift eevee in blossand town
+388: rival battle 3 (route 110 or 123 or in front of safari zone)
